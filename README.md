@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi there 👋
+## Welcome to the Camcookie GitHub account!
+
+Camcookie Website: [https://camcookie.com/](https://camcookie.com/)
 
 <!--
 **camcookie876/camcookie876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
